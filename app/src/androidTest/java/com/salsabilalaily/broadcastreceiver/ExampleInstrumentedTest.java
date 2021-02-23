@@ -1,4 +1,4 @@
-package com.ariefzuhri.broadcastreceiver;
+package com.salsabilalaily.broadcastreceiver;
 
 import android.content.Context;
 
